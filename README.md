@@ -2,7 +2,7 @@
 
 - 🌹 练习时长两年半的Java开发程序🐵，目前在上海从事Java开发工作🌈
 - 🏡 业务项目： <a href="https://github.com/HuangGreatd/websocket" target="_blank">遇窗交友系统🌈</a> | <a href="https://github.com/HuangGreatd/Juzi-RPC" target="_blank">轻量级RPC框架🚀</a>  | <a href="https://github.com/HuangGreatd/BI" target="_blank">Ju-BI分析🔍</a> | <a href="https://github.com/HuangGreatd/juziAPI" target="_blank">API开发接口平台✨</a> |  <a href="https://github.com/HuangGreatd/Judada" target="_blank">橘答答 智能 MBIT出题系统✨</a>
-- 🚀 组件项目： <a href="[https://github.com/HuangGreatd/websocket](https://github.com/HuangGreatd/dynamic-thread-pool)" target="_blank">动态线程池组件🌈</a> 
+- 🚀 组件项目： <a href="https://github.com/HuangGreatd/dynamic-thread-pool" target="_blank">动态线程池组件🌈</a> 
 - 📝 博客：博客：[CSDN💬](https://blog.csdn.net/weixin_56241562) - 有点懒~
 
 ### ✨ 我的技能   
